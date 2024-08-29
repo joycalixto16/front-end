@@ -1,0 +1,73 @@
+
+.corpo{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    height: 100vh;
+
+}#ladoum{
+    background: linear-gradient(#0f07aad4, #343434 );
+    height: 100vh;  
+
+    text-align: center;
+    width: 25%;
+    
+
+}#ladodois{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    width:  70%;
+
+    padding-top:8% ;
+
+    text-align: center;
+
+}#imagem1{
+    width: 250px;
+    margin-bottom: 20%; 
+
+
+}#imagem2{
+    width:  250px;
+
+}p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+
+}.img{
+    margin-top: 60%;
+    margin-bottom: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+} input{
+    /* width: 25%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+   
+}label{
+    margin-right: 100%;
+   
+ 
+}form{
+
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}#imagem3{
+    padding-top: 2%;
+}#btn{
+    margin: 10%;
+    background-color: #003fe0;
+    color: aliceblue;
+    margin-left: 23%;
+}#input{
+    padding-top: 5%;
+
+}
