@@ -1,0 +1,66 @@
+
+.header{
+    background-color: #003FE0;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.headerItens{
+   
+   align-items: center;
+   display: flex;
+}
+
+.dropdown{
+    text-align: right;
+}
+
+.logo{
+    width: 33.3%;
+    justify-content: center; 
+}
+
+.logoUnesp{
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+button{
+    width: 200px;
+}
+
+.caixaTitulo{
+    color: white;
+    text-align: center;
+    width: 33.3%;
+    padding: auto;
+    
+    
+}
+
+.imgUser{
+    margin-right: -20px;
+    width: 33.3%;
+}
+
+.user{
+    margin-left: 80%;
+}
+
+.footer{
+    background-color: #003FE0;
+    color: white;
+    margin-top: 680px;
+    margin-left: -12px;
+    margin-right: -12px;
+    height: 89px;
+    text-align: center;
+
+    
+}
+
+.inputNomPaci{
+    margin-top: 10px;
+    width: 300px;
+    display: flex;
+}
